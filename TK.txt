@@ -1,5 +1,8 @@
- Este es mi archivo de textoa para probar Git con GitHub
+ Este es mi archivo de texto para probar Git con GitHub
 
 
 
 https://github.com/juanchoFE/javaJM1.git         Mi primer Repositorio en GitHub
+
+
+AGREGANDO ESTE COMENTARIO PARA VER CONSTANCIA DE CAMBIO EN MI ARCHIVO DE TEXTO PARA REALIZAR EL COMMIT 2
