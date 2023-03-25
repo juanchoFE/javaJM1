@@ -1,0 +1,5 @@
+ Este es mi archivo de textoa para probar Git con GitHub
+
+
+
+https://github.com/juanchoFE/javaJM1.git         Mi primer Repositorio en GitHub
